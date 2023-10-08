@@ -28,7 +28,7 @@ A simple, user-friendly Python tool designed to validate Bitcoin BIP-0039 mnemon
 ## Usage
 
 1. Ensure you have Python and `requests` library installed.
-2. Run the script: `python mnemonic_validator.py`
+2. Run the script: `python3 validate.py`
 3. Input your 12-word mnemonic phrase when prompted.
 4. The script will validate the mnemonic and output whether it's valid or invalid.
 
